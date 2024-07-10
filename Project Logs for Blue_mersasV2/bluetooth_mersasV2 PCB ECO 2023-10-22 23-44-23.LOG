@@ -1,0 +1,12 @@
+Change Component Comment : Designator=L1 Old Comment=10 New Comment=0
+Change Component Comment : Designator=R21 Old Comment=30K New Comment=22K
+Change Component Comment : Designator=R42 Old Comment=30K New Comment=22K
+Change Component Comment : Designator=R53 Old Comment=30K New Comment=22K
+Change Component Comment : Designator=R62 Old Comment=30K New Comment=22K
+Change Component Comment : Designator=R113 Old Comment=30K New Comment=X
+Change Component Comment : Designator=R114 Old Comment=30K New Comment=X
+Change Component Comment : Designator=C25 Old Comment=<1nF New Comment=<1nF [ne]
+Change Component Comment : Designator=C26 Old Comment=<1nF New Comment=<1nF [ne]
+Change Component Comment : Designator=R6 Old Comment=R New Comment=100
+Change Component Comment : Designator=R16 Old Comment=R New Comment=100
+Added Room: Name=Bluetooth_mersasV2

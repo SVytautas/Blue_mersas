@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C14 Old Footprint=TANT R(2824) New Footprint=tant B size
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R120 10
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R

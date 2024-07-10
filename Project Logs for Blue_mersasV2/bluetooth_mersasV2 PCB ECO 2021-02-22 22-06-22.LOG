@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VBUS Pin=R127-2
+Removed Pin From Net: NetName=GND Pin=R130-2
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R106
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R107
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R108
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R109
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R110
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R111
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R126
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R127
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R130
+Removed Member From Class: ClassName=Bluetooth_mersas Member=R134
+Change Class Name : Old Net Name=Bluetooth_mersas New Net Name=Bluetooth_mersasV2
+Added Room: Name=Bluetooth_mersasV2

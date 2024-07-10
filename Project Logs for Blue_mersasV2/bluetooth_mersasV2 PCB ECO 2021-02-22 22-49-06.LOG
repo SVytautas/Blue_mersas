@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R22 Old Footprint=RES 0805/2012 New Footprint=RES 0603/1608
+Change Component Footprint: Designator=R117 Old Footprint=RES 0805/2012 New Footprint=RES 0603/1608
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R
+Added Room: Name=Bluetooth_mersasV2

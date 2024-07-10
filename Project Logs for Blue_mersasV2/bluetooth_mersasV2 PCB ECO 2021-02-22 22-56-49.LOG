@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L10 Old Footprint=CD43 New Footprint=IND 1206/3216 - 1.0MM
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R

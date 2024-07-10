@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=R120 NewDesignator=R?
+Change Component Designator: OldDesignator=R122 NewDesignator=R?
+Change Component Designator: OldDesignator=R123 NewDesignator=R?
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD?_1
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component D? LED
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R? R
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R? R
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R? 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R? 10
+Added Room: Name=Bluetooth_mersasV2

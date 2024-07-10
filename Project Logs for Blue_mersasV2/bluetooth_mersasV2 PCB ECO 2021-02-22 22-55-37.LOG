@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=POWER_EN_STM Pin=R49-1
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R
+Added Room: Name=Bluetooth_mersasV2

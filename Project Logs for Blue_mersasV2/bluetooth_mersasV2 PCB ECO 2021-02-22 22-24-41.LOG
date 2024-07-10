@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=K8 Pin=R112-2
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R112
+Added Pin To Net: NetName=K8 Pin=IC1-26
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component IC1 RRD-305
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R
+Added Room: Name=Bluetooth_mersasV2

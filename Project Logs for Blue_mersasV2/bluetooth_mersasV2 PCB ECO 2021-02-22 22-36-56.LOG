@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PB1 Pin=R25-2
+Removed Pin From Net: NetName=PB2 Pin=R27-2
+Removed Pin From Net: NetName=PA3 Pin=R28-1
+Removed Pin From Net: NetName=PA5 Pin=R29-1
+Removed Pin From Net: NetName=PA4 Pin=R30-1
+Removed Pin From Net: NetName=PA6 Pin=R54-1
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R25
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R27
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R28
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R29
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R30
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R54
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R129
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R

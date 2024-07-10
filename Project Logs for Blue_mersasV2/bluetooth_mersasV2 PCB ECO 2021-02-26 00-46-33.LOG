@@ -1,0 +1,10 @@
+Added Component: Designator=R11(RES 0603/1608)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetP4_1 Pin=R11-1
+Added Pin To Net: NetName=NetP4_2 Pin=R11-2
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component D2 LED
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R11 1M
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R120 10
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R
+Added Room: Name=Bluetooth_mersasV2

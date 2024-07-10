@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=4.2V Pin=L8-2
+Removed Pin From Net: NetName=5V Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Pin From Net: NetName=SPK_LP1 Pin=R67-1
+Removed Pin From Net: NetName=SPK_LN1 Pin=R69-1
+Removed Pin From Net: NetName=SPK_RP1 Pin=R71-1
+Removed Pin From Net: NetName=SPK_RN1 Pin=R72-1
+Removed Pin From Net: NetName=MIC_BP Pin=R74-1
+Removed Pin From Net: NetName=MIC_BN Pin=R76-1
+Removed Pin From Net: NetName=MIC_AP Pin=R79-1
+Removed Pin From Net: NetName=MIC_AN Pin=R81-1
+Removed Pin From Net: NetName=MIC_BIAS Pin=R84-1
+Removed Pin From Net: NetName=K1 Pin=R86-1
+Removed Pin From Net: NetName=K2 Pin=R87-1
+Removed Pin From Net: NetName=K3 Pin=R89-1
+Removed Pin From Net: NetName=K4 Pin=R91-1
+Removed Pin From Net: NetName=K5 Pin=R92-1
+Removed Pin From Net: NetName=K6 Pin=R95-1
+Removed Pin From Net: NetName=K7 Pin=R97-1
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=L8
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=L9
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=P9
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R66
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R67
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R69
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R70
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R71
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R72
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R74
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R76
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R79
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R81
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R84
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R86
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R87
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R88
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R89
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R91
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R92
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R94
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R95
+Removed Member From Class: ClassName=Bluetooth_mersasV2 Member=R97
+Added Component: Designator=R122(RES 1206/3216)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R123(RES 1206/3216)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=K7 Pin=IC1-27
+Added Pin To Net: NetName=K6 Pin=IC1-28
+Added Pin To Net: NetName=K5 Pin=IC1-29
+Added Pin To Net: NetName=K4 Pin=IC1-30
+Added Pin To Net: NetName=K3 Pin=IC1-31
+Added Pin To Net: NetName=K2 Pin=IC1-32
+Added Pin To Net: NetName=K1 Pin=IC1-33
+Added Pin To Net: NetName=MIC_BIAS Pin=IC1-34
+Added Pin To Net: NetName=MIC_AN Pin=IC1-35
+Added Pin To Net: NetName=MIC_AP Pin=IC1-36
+Added Pin To Net: NetName=MIC_BN Pin=IC1-37
+Added Pin To Net: NetName=MIC_BP Pin=IC1-38
+Added Pin To Net: NetName=SPK_RN1 Pin=IC1-39
+Added Pin To Net: NetName=SPK_RP1 Pin=IC1-40
+Added Pin To Net: NetName=SPK_LN1 Pin=IC1-41
+Added Pin To Net: NetName=SPK_LP1 Pin=IC1-42
+Added Pin To Net: NetName=4.2V Pin=R123-2
+Added Pin To Net: NetName=NetR121_2 Pin=R121-2
+Added Pin To Net: NetName=NetR121_2 Pin=R122-1
+Added Pin To Net: NetName=NetR121_2 Pin=R123-1
+Added Net: Name=NetR121_2
+Added Pin To Net: NetName=NetR122_2 Pin=R122-2
+Added Pin To Net: NetName=NetR122_2 Pin=R123-1
+Added Net: Name=NetR122_2
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R122 100K
+Added Member To Class: ClassName=Bluetooth_mersasV2 Member=Component R123 R
+Added Room: Name=Bluetooth_mersasV2
